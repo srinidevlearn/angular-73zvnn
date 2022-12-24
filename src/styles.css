@@ -1,0 +1,5 @@
+/* Add application styles & imports to this file! */
+pre {
+  height: 500px;
+  overflow-y: auto;
+}
